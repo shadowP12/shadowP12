@@ -14,3 +14,4 @@
 [hair](https://github.com/hipiPan/hair)
 
 ## Variable-Rate-Shading
+[vrs](https://github.com/shadowP12/vrs)
